@@ -1,0 +1,9 @@
+*** WooCommerce Payza Gateway Changelog ***
+
+2017-06-02 - version 2.0
+ * Initial fork by ouija
+
+
+2017-04-03 - version 1.3.3
+ * Fix - Update WooCommerce 3.0 compatibility
+

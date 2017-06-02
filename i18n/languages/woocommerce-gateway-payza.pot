@@ -1,0 +1,205 @@
+# Copyright (C) 2015 WooCommerce Payza Gateway
+# This file is distributed under the same license as the WooCommerce Payza Gateway package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Payza Gateway 1.3.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/woocommerce-"
+"gateway-payza\n"
+"POT-Creation-Date: 2015-07-29 20:10:21+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/class-wc-gateway-payza.php:82
+#: classes/class-wc-gateway-payza.php:141
+msgid "Payza"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:83
+msgid ""
+"Payza Payment Gateway provides a seamless and secure checkout process for "
+"your customers"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:103
+msgid "SANDBOX MODE ENABLED"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:130
+msgid "Enable"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:131
+msgid "Enable Payza"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:138
+msgid "Title"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:140
+msgid "Payment method title that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:145
+msgid "Description"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:147
+msgid "Payment method description that the customer will see on your website."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:148
+msgid ""
+"Pay via Payza; you can pay with your credit card if you don't have a Payza "
+"account"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:152
+msgid "Sandbox Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:153
+msgid "Enable Sandbox Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:155
+msgid ""
+"Place the payment gateway in sandbox mode to work with your sandbox "
+"account.  To simulate transactions without transferring funds, log into your "
+"Payza sellers account and enable Test Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:160
+msgid "Debug Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:161
+msgid "Enable Debug Mode"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:163
+msgid "Output/log the response from Payza for debugging purposes."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:168
+msgid "Payza Sandbox Email"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:170
+msgid ""
+"Please enter your Payza Sandbox email address; this is needed in order to "
+"take sandbox payments."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:175
+msgid "Payza Live Email"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:177
+msgid ""
+"Please enter your Payza Live email address; this is needed in order to take "
+"live payments."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:182
+msgid "IPN Alert URL Configured"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:183
+msgid "I certify that I have properly set my IPN Alert URL"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:185
+msgid ""
+"To properly process live transactions you must %sset your Alert URL%s to %s, "
+"and set the Version to %s2%s"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:203
+msgid ""
+"Thank you for your order, please click the button below to pay with Payza."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:349
+msgid ""
+"Thank you for your order. We are now redirecting you to Payza to make "
+"payment."
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:377
+msgid "Pay via Payza"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:378
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:493
+msgid "Payza payment failed (IPN Status: %s)"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:503
+msgid ""
+"Payza payment failed (IPN total amount %s does not equal order total %s)"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:516
+msgid ""
+"Payza payment failed.  Possible fradulent discount (IPN total amount %s not "
+"equal to net amount %s + fee amount %s)"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:527
+msgid "Test Mode Payza payment completed"
+msgstr ""
+
+#: classes/class-wc-gateway-payza.php:527
+msgid "Payza payment completed"
+msgstr ""
+
+#: classes/class-wc-payza-admin-helper.php:69
+msgid "Docs"
+msgstr ""
+
+#: classes/class-wc-payza-admin-helper.php:73
+msgid "Support"
+msgstr ""
+
+#: classes/class-wc-payza-admin-helper.php:95
+msgid "Configure"
+msgstr ""
+
+#: classes/class-wc-payza-admin-helper.php:193
+msgid ""
+"To properly process live transactions with Payza you must %sset your Alert "
+"URL%s to %s, and set the Version to <strong>2</strong>.  Then certify this "
+"has been done in the WooCommerce Payza plugin configuration."
+msgstr ""
+
+#: classes/class-wc-payza-admin-helper.php:220
+msgid "Dismiss"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Payza Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/payza-gateway/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds the Payza Gateway to your WooCommerce website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr ""
